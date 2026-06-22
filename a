@@ -11,7 +11,7 @@
         body {
             /* 【ワーク】背景の色を変えてみよう（例：#ffffff、#ffe4e1、#e0ffff など） */
             background-color: #34ebd2; 
-            font-family: 'Helvetica Neue', Arial, sans-serif;
+            font-family: 'Georgia',  sans-serif;
             color: #34ebd2;
             margin: 0;
             padding: 0;
