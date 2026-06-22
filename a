@@ -12,7 +12,7 @@
             /* 【ワーク】背景の色を変えてみよう（例：#ffffff、#ffe4e1、#e0ffff など） */
             background-color: #34ebd2; 
             font-family: 'Georgia',  sans-serif;
-            color: #34ebd2;
+            color: #575861;
             margin: 0;
             padding: 0;
             display: flex;
@@ -99,7 +99,7 @@
             <a href="https://www.sylvanianfamilies.com/ja-jp/" target="_blank" class="btn"style="border-radius: 50px;">Instagramをチェック</a>
 
           <h2>連絡先</h2>
-<p>メール：<a href="mailto:your@email.com">your@email.com</a></p>
+<p>メール：<a href="mailto:your@email.com">qolet.training05@outlook.com</a></p>
 
             </div>
     </div>
