@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>マイ・プロフィールサイト</title>
+    <style>
+        /* ========================================================
+           【デザイン設定（CSS）】
+           ======================================================== */
+        body {
+            /* 【ワーク】背景の色を変えてみよう（例：#ffffff、#ffe4e1、#e0ffff など） */
+            background-color: #f4f7f6; 
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+            text-align: center;
+            max-width: 400px;
+            width: 90%;
+            margin: 20px;
+        }
+        .profile-img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 4px solid #ffffff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            font-size: 24px;
+            color: #2c3e50;
+            margin: 15px 0 5px 0;
+        }
+        .job {
+            font-size: 14px;
+            color: #95a5a6;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+        .intro {
+            font-size: 15px;
+            line-height: 1.6;
+            color: #555555;
+            margin-bottom: 25px;
+        }
+        .links-container {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+        .btn {
+            display: block;
+            padding: 12px;
+            text-decoration: none;
+            color: white;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 14px;
+            transition: background 0.3s;
+            /* 【ワーク】ボタンの色を変えてみよう（例：#ff6b6b、#4dabf7、#51cf66 など） */
+            background-color: #0369a1; 
+        }
+        .btn:hover {
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        
+        <img src="https://placehold.co/150" alt="プロフィール画像" class="profile-img">
+
+        <h1>山田 太郎</h1>
+        
+        <div class="job">Webディレクター / デザイナー</div>
+        
+        <p class="intro">
+            はじめまして！本日、初めてのWeb制作実習に参加しています。
+            3時間でこのページをカスタマイズして、世界中に公開するのが目標です！
+        </p>
+
+        <div class="links-container">
+            <a href="https://example.com" target="_blank" class="btn">公式ホームページ</a>
+            
+            <a href="https://x.com" target="_blank" class="btn">X（旧Twitter）をチェック</a>
+            
+            </div>
+    </div>
+
+</body>
+</html>
