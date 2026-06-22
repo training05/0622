@@ -40,7 +40,7 @@
         }
         h1 {
             font-size: 24px;
-            color: #34ebd2;
+            color: #0f1229;
             margin: 15px 0 5px 0;
         }
         .job {
