@@ -97,14 +97,25 @@
             
             <a href="https://x.com/SylvanianJP" target="_blank" class="btn"style="border-radius: 50px;">X（旧Twitter）をチェック</a>
             <a href="https://www.sylvanianfamilies.com/ja-jp/catalog/categorieslist.php?category_id=123" target="_blank" class="btn"style="border-radius: 50px;">Instagramをチェック</a>
+
 <h2>スキル</h2>
 <ul>
   <li>英検2級</li>
   <li>日商簿記2級</li>
   <li>普通自動車免許</li>
 </ul>
-          <h2>連絡先</h2>
+
+<h2>連絡先</h2>
 <p>メール：<a href="mailto:your@email.com">qolet.training05@outlook.com</a></p>
+
+<h2>自己紹介表</h2>
+<table border="1">
+  <tr><th>項目</th><th>内容</th></tr>
+  <tr><td>名前</td><td>岩﨑千晴</td></tr>
+  <tr><td>出身</td><td>東京都</td></tr>
+  <tr><td>趣味</td><td>読書、シルバニア</td></tr>
+</table>
+
 
             </div>
     </div>
